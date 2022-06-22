@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8">
+
+<!DOCTYPE candidates[
+<!ELEMENT candidate (CID+,Full_name+,Age,Email?)
+<!ELEMENT CID(#PCDATA)>
+<!ELEMENT Full_name(#PCDATA)>
+<!ELEMENT Age(#PCDATA)>
+<!ELEMENT Email(#PCDATA)>
+]>
+
