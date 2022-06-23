@@ -21,7 +21,7 @@ The technologies I've used :
 
 Before, you work on this , you have to install the new version of the XAMPP server and the MySQL server.
 
-1. [XAMPP Server](https://www.apachefriends.org/download.html](https://fileswin.com/wampserver/download/)
+1. [WAMPP Server](https://www.apachefriends.org/download.html](https://fileswin.com/wampserver/download/)
 2. [MySQL Server](https://dev.mysql.com/downloads/installer/)
 
 
