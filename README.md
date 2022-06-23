@@ -3,7 +3,7 @@
 
 > Success is sum of small efforts repeated !
 
-![This is an image]([INTERVIEW5.jpg])
+![image](https://user-images.githubusercontent.com/87275026/175223533-210e6193-6228-4268-b439-0bbd67352579.png)
 
 In large organizations, there can be so many candidates who applying for the interviews. So, managing massive number of candidate details is a huge task. Also, those details are hard to access and maintain. So, this is a mini project developed using PHP & XML which manages the interviews of the company. By using this system anyone who has the access can login to the interview management system and view the details of candidates and easily find the candidates details and their interview marks. All the required details and CV, photograph should be uploaded to the system. File manipulation process is done using XML.
 
