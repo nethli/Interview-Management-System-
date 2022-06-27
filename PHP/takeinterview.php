@@ -1,5 +1,6 @@
 <?php
     include '../SERVER/server.php';
+    include 'reportmarkssqlinsert.php';
 ?>
 
 <!DOCTYPE html>
@@ -77,6 +78,7 @@
 
             <br><br<br>
 
+            <center>
             <table border = "1">
                 <tr>
                     <th>#</th>
@@ -103,10 +105,8 @@
                 }
                 
                 ?>
-
-                
-
             </table>
+            </center>
             
             <br><br>
 

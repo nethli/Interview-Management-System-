@@ -34,11 +34,12 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
     <a href ="signup.php?" ><input type = "submit" name = "submit" value="ADD NEW ADMIN" class="btn btn-success" style="border-radius:0%" ></a>
-  
+    <br><br><br>
+    
     <center>
     <table>
         <tr>
-            <td><div class="card" style="width: 20rem;">
+            <td><div class="card" style="width: 20rem; height:22rem">
                 <img class="card-img-top" src="../IMAGES/recruitment.jpg" alt="Card image cap">
                 <div class="card-body">
                   <h5 class="card-title">Add New Candidate Details</h5>
@@ -48,10 +49,9 @@
               </div>
             </td>
             
-            &nbsp;&nbsp;&nbsp;&nbsp;
 
             <td>
-                <div class="card" style="width: 20rem;">
+                <div class="card" style="width: 20rem; height:22rem">
                     <img class="card-img-top" src="../IMAGES/46.jpg" alt="Card image cap">
                     <div class="card-body">
                       <h5 class="card-title">Display All Candidate Details</h5>
@@ -60,13 +60,10 @@
                     </div>
                   </div>
             </td>
-        </tr>
-
-        <br><br>
 
         <!--<tr>-->
             <td>
-                <div class="card" style="width: 20rem;">
+                <div class="card" style="width: 20rem; height:22rem">
                     <img class="card-img-top" src="../IMAGES/Interview.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Add New Interview Question</h5>
@@ -77,7 +74,7 @@
             </td>
 
             <td>
-                <div class="card" style="width: 20rem;">
+                <div class="card" style="width: 20rem; height:22rem">
                     <img class="card-img-top" src="../IMAGES/candidates.jpg" alt="Card image cap">
                     <div class="card-body">
                         <h5 class="card-title">Display All Interview Questions</h5>
