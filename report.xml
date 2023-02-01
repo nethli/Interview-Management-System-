@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<candidate>
+  <candidate>
+    <CID>11</CID>
+    <Full_Name>Naveen Hareendra</Full_Name>
+    <Age>22</Age>
+    <Email>naveen@gmail.com</Email>
+  </candidate>
+  <candidate>
+    <CID>6</CID>
+    <Full_Name>Ricky Regal</Full_Name>
+    <Age>25</Age>
+    <Email>ricky@gmail.com</Email>
+  </candidate>
+  <candidate>
+    <CID>12</CID>
+    <Full_Name>Imanji</Full_Name>
+    <Age>22</Age>
+    <Email>imanji@gmail.com</Email>
+  </candidate>
+  <candidate>
+    <CID>13</CID>
+    <Full_Name>Amaya</Full_Name>
+    <Age>23</Age>
+    <Email>amaya@gmail.com</Email>
+  </candidate>
+  <candidate>
+    <CID>10</CID>
+    <Full_Name>Tharika Nethmi</Full_Name>
+    <Age>19</Age>
+    <Email>tharika@gmail.com</Email>
+  </candidate>
+</candidate>

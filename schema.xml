@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs ="http://www.w3.org/2001/XMLSchema">
+<xs:element name="candidates">
+<xs:complexType>
+    <xs:squence>
+        <xs:element name="candidate">
+            <xs:complexType>
+                <xs:squence>
+                    <xs:element name="CID" Type="xs:int"/>
+                    <xs:element name="Full_name" Type="xs:string"/>
+                    <xs:element name="Age" Type="xs:int"/>
+                    <xs:element name="Email" Type="xs:string"/>
+                </xs:squence>
+            </xs:complexType>
+        </xs:element>
+    </xs:squence>
+</xs:complexType>
+</xs:element>
+</xs:schema>
