@@ -1,0 +1,20 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+
+body{
+    background : url(../IMAGES/INTERVIEW5.jpg);
+    background-size: 120%;
+    background-position: center;
+}
+
+h1,h2{
+  /*text-align: center; */
+  font-family: sans-serif;
+  padding: 20px; 
+}
+
+h1,h2{
+    text-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
