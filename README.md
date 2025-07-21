@@ -31,7 +31,7 @@ And I've used some bootsrap codes in my project. You can apply bootsrap to the s
 
 [Bootstrap Code](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
-#### Thank You & Good Luck!! 	:handshake:
+#### Thank You & Good Luck!! 	🤝
 
 Best Regards,
 **_Nethli Dahanayake_**
